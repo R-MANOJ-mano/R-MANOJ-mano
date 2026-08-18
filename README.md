@@ -25,19 +25,18 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 ###
-<table>
-  <tr>
-    <td valign="middle">
-      <img data-importer="stats" src="https://raw.githubusercontent.com/R-MANOJ-mano/R-MANOJ-mano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-    </td>
-    <td valign="middle">
-      <a href="https://www.linkedin.com/in/manoj-r-095a7627a/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-      </a>
-      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
-    </td>
-  </tr>
-</table>
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/R-MANOJ-mano/R-MANOJ-mano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/manoj-r-095a7627a/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
+</div>
+
+<hr/>
 ###
 <img data-importer="snake" src="https://raw.githubusercontent.com/R-MANOJ-mano/R-MANOJ-mano/snake-output/snake.svg" alt="Snake animation" />
 ###
