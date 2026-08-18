@@ -39,7 +39,11 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
-
+###
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/R-MANOJ-mano/R-MANOJ-mano/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+###
 
 
 <div data-importer="socials" align="left">
